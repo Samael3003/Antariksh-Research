@@ -6,9 +6,9 @@ import PhysicsCard from './PhysicsCard';
 const physicsData = [
   {
     title: 'From Face-On to Edge-On: The Spiral Story of a Stunning Galaxy',
-    image: 'From Face-On to Edge-On: The Spiral Story of a Stunning Galaxy',
+    image: 'https://scitechdaily.com/images/Spiral-Galaxy-IC-5332-777x762.jpg?ezimgfmt=ng:webp/ngcb2',
     keywords: ['Stunning Galaxy'],
-    link: 'https://scitechdaily.com/images/Spiral-Galaxy-IC-5332-777x762.jpg?ezimgfmt=ng:webp/ngcb2',
+    link: 'https://scitechdaily.com/from-face-on-to-edge-on-the-spiral-story-of-a-stunning-galaxy/',
   },
   {
     title: 'Dark Matter and Galactic Collisions: Harvard Astronomers Explain the Milky Way’s Mysterious Warp',
@@ -24,9 +24,9 @@ const physicsData = [
   },
   {
     title: 'From Face-On to Edge-On: The Spiral Story of a Stunning Galaxy',
-    image: 'From Face-On to Edge-On: The Spiral Story of a Stunning Galaxy',
+    image: 'https://scitechdaily.com/images/Spiral-Galaxy-IC-5332-777x762.jpg?ezimgfmt=ng:webp/ngcb2',
     keywords: ['Stunning Galaxy'],
-    link: 'https://scitechdaily.com/images/Spiral-Galaxy-IC-5332-777x762.jpg?ezimgfmt=ng:webp/ngcb2',
+    link: 'https://scitechdaily.com/from-face-on-to-edge-on-the-spiral-story-of-a-stunning-galaxy/',
   },
   {
     title: 'Dark Matter and Galactic Collisions: Harvard Astronomers Explain the Milky Way’s Mysterious Warp',
